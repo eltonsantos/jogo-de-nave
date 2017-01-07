@@ -10,7 +10,7 @@ https://www.linkedin.com/in/eltonmelosantos
 https://twitter.com/eltin182
 
 ## Como jogar
-Controle sua nave e derrote o maior número de inimigos que consegui, depois veja quantos pontos você fez e divirta-se!
+Controle sua nave e destrua o maior número de ovnis que consegui, depois veja quantos pontos você fez e divirta-se!
 
 **SETAS DIRECIONAIS:** Movimenta a nave
 
