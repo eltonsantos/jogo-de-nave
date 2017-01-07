@@ -1,5 +1,5 @@
 # Jogo de Nave
-Jogo desenvolvido do livro Desenvolva jogos com HTML5 Canvas e JavaScript  do autor **Éderson Cássio** - https://www.casadocodigo.com.br/products/livro-jogos-html-javascript
+Jogo desenvolvido do livro Desenvolva jogos com HTML5 Canvas e JavaScript  do autor **Éderson Cássio** https://www.casadocodigo.com.br/products/livro-jogos-html-javascript
 
 # Jogue Online
 http://eltonsantos.esy.es/
