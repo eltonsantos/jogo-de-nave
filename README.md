@@ -10,7 +10,7 @@ https://www.linkedin.com/in/eltonmelosantos
 https://twitter.com/eltin182
 
 ## Como jogar
-Controle sua nave e destrua o maior número de inimigos que consegui, depois veja sua pontuação! Divirta-se!!
+Controle sua nave, destrua o maior número de inimigos que consegui e depois veja sua pontuação! Divirta-se!!
 
 **SETAS DIRECIONAIS:** Movimenta a nave
 
